@@ -1,6 +1,6 @@
 # 90 Days Of DevOps
 
-[DevOps](https://www.linkpicture.com/q/DevOpsImage.png)
+![DevOps](https://www.linkpicture.com/q/DevOpsImage.png)
 
 Этот репозиторий будет документировать мой прогресс в области DevOps. На протяжении 90 дней я буду изучать DevOps безостановочно!
 
