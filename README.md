@@ -1,6 +1,8 @@
 # 90 Days Of DevOps
 
-![DevOps](https://www.linkpicture.com/q/DevOpsImage_1.png)
+<p align="left">
+ <img src="https://www.linkpicture.com/q/DevOpsImage_1.png" alt="90DaysOfDevOps Logo" width="75%" height="75%" />
+</p>
 
 Этот репозиторий будет документировать мой прогресс в области DevOps. На протяжении 90 дней я буду изучать DevOps безостановочно!
 
