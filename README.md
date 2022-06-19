@@ -2,7 +2,7 @@
 
 ## Progress 
 
-- [❌] ♾️ 1 Introduction 
+- [✔️] ♾️ 1 Introduction 
 
 ### What is and why do we use DevOps
 
